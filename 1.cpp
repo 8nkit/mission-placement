@@ -2,7 +2,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 main(){
-int a,b;
+int a;
 a=10;
 b=20;
 a^=b;
